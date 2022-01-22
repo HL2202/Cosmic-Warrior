@@ -1,0 +1,1 @@
+width 1800height 1200score 0spaceship spaceship 450.0,300.0,90.0,0.0fuel 60asteroids count 4
